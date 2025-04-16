@@ -822,6 +822,14 @@ jj git push --remote <name>
 <!-- column_layout: [1, 10, 1] -->
 <!-- column: 1-->
 <!-- pause -->
+# Fetching from remote
+
+```fish
+# if no remote is specified, it defaults to "origin"
+# if no branch is specified, it defaults to fetching all branches
+jj git fetch --remote <name> --branch <branch-name>
+```
+<!-- pause -->
 # Tracking a remote branch
 
 ```fish
@@ -831,16 +839,6 @@ jj bookmark track <branch-name>@<remote-name>
 - once you have tracked a remote branch, it becomes a **tracked remote bookmark**
 <!-- new_line -->
 - **tracked remote bookmarks** are associated with local bookmarks with the same name
-
-<!-- pause -->
-# Fetching from remote
-
-
-```fish
-# if no remote is specified, it defaults to "origin"
-# if no branch is specified, it defaults to fetching all branches
-jj git fetch --remote <name> --branch <branch-name>
-```
 
 final thoughts
 ---
