@@ -1,4 +1,4 @@
-# Introduction to Jujustu (`jj`)
+# Introduction to Jujutsu (`jj`)
 
 Hackerschool AY2024/2025 - 17/04/2025
 

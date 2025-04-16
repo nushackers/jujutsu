@@ -67,7 +67,7 @@ at a glance
 <!-- column_layout: [1, 10, 1] -->
 <!-- column: 1-->
 <!-- incremental_lists: true -->
-- `jj` is the cli, "Jujustu" is the name
+- `jj` is the cli, "Jujutsu" is the name
 <!-- new_line -->
 - created by <span style='color: #906CCF'>Martin von Zweigbergk</span> @ Google
     - started out as his 20% project
@@ -882,7 +882,7 @@ helpful links
 <!-- new_line -->
 - `https://steveklabnik.github.io/jujutsu-tutorial/`
 <!-- new_line -->
-- Official Jujustu discord: `https://discord.gg/dkmfj3aGQN`
+- Official Jujutsu discord: `https://discord.gg/dkmfj3aGQN`
 
 <!-- end_slide -->
 <!-- jump_to_middle -->
