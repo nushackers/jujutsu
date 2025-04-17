@@ -10,6 +10,13 @@ theme:
     name: catppuccin-latte
 ---
 
+<!-- jump_to_middle -->
+<!-- alignment: center -->
+<!-- font_size: 3 -->
+`hckr.cc/jj-slides`
+<!-- font_size: 1 -->
+_the layout and font size are a little messed up, sorry about that!_
+
 _"who is this guy?"_
 ---
 
