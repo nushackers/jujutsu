@@ -873,6 +873,9 @@ final thoughts
 
 - `jj --help` to explore more commands to try out!
 
+<!-- new_line -->
+
+- `https://github.com/arxanas/git-branchless`
 
 helpful links
 ---
