@@ -3,7 +3,7 @@ title: Jujutsu - `jj`
 sub_title: Version Control != Git
 event: Hackerschool
 date: 2025-04-17
-author: yihong [dot] nushackers [dot] org
+author: yihong [at] nushackers [dot] org
 options:
     implicit_slide_ends: true
 theme:
